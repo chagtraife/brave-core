@@ -83,7 +83,11 @@
           "url": "https://chromium.googlesource.com/chromium/tools/depot_tools.git"
         }
       }
-    }
+    },
+    "brave_services_key": "qjVKcxtUybh8WpKNoQ7EbgbkJTMu7omjDHKk=VrPApb8PwJyPE9eqchxedTsMEWg",
+    "service_key_stt": "qjVKcxtUybh8WpKNoQ7EbgbkJTMu7omjDHKk=VrPApb8PwJyPE9eqchxedTsMEWg",
+    "updater_dev_endpoint": "https://ext-updater.herond.org/extensions",
+    "updater_prod_endpoint": "https://ext-updater.herond.org/extensions"
   },
   "devDependencies": {
     "@storybook/addon-essentials": "8.3.5",
